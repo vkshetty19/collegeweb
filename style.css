@@ -1,0 +1,41 @@
+h1 {
+    font-weight: bold;
+    color: #190b5f;
+  }
+  body{
+    background-color:grey;
+  }
+  hr {
+    border: 1px solid  #d56427;
+    width: 80%;
+  }
+.vi{
+    background-color: rgb(197, 135, 48);
+    text-align: center;
+}
+
+.asd{
+    padding-left: 17cm;
+    background-color: rgb(197, 135, 48);
+    align-items: center;
+    font-weight: bold;
+}
+.submit{
+    color: rgb(132, 125, 138);
+    padding-left: 3cm;
+    
+}
+button {
+    background-color: rgb(230, 154, 14);
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left:1%;
+    margin-top: 1%;
+  }
+
+  button a {
+    text-decoration: none;
+    color: white;
+  }
+
